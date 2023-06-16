@@ -1,0 +1,9 @@
+Hola mi nombre es diego 
+
+tengo 24 años soy ingeniero electronico de la universidad escuela colombiana de ingenieria julio garavito
+
+me apasiona la programacion orientada a objetos y el desarrollo de software
+
+me gusta los deportes tales como el futbol y el baloncesto
+
+soy alto.
